@@ -134,7 +134,7 @@ descr(mom_cancer) %>% tab_df(title = "Estadistica descriptiva y nivel de expresi
 
 ```{tex}
 # Escriba aquí su interpretación 
-# La tabla muestra un resumen de los datos en los que se puede apreciar que los genes ESR1 y MUC1 son los que más expresión genética tienen
+# La tabla muestra un resumen de los datos en los que se puede apreciar que los genes ESR1 y MUC1 son los que más expresión genética tienen. El que menos se expresa es el gen GAPDH
 ```
 
 
