@@ -175,6 +175,7 @@ cancertiposbox = lapply(cancertipos, function(x) {ggplot(x, aes(dataset, expresi
     geom_boxplot() + theme(legend.position='none') + labs(x = "", y = "Nivel de expresión")})
 
 cancertiposbox
+
 ```
 
 ### [0.5 PUNTOS] 2.3 Guarde en el subdirectorio ```result``` el tercer plot de la lista ```cancertype_boxplots``` con el nombre ```boxplot3.png```. La definición de a figura debe ser de 300dpi. 
