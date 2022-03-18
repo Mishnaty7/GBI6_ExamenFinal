@@ -156,8 +156,6 @@ cajaTCG <- function(dataset) {
 }
 cajaTCG(df_long)
 
-
-
 ```
 
 ### [0.5 PUNTOS] 2.2 Utilizando la función ```lapply()``` genera la lista ```cancertype_boxplots``` con las gráficas para cada tipo de cancer (cada tipo de dataset). 
