@@ -134,7 +134,7 @@ descr(mom_cancer) %>% tab_df(title = "Estadistica descriptiva y nivel de expresi
 
 ```{tex}
 # Escriba aquí su interpretación 
-# 
+# La tabla muestra un resumen de los datos en los que se puede apreciar que los genes ESR1 y MUC1 son los que más expresión genética tienen
 ```
 
 
@@ -347,7 +347,6 @@ expresion_gen_reg <- function (gen) {
 ```{r reg11}
 # Escriba el código para guardar el onceavo plot. 
 cancerplot<- expresion_gen_reg("GATA3")
-
 cancerplot[[5]][[2]]
 
 ggsave("C:/Users/MISHELLE/Desktop/GBI6_ExamenFinal/GBI6_ExamenFinal/results/regresion11.pdf", width = 5, height = 9, dpi = 300)
