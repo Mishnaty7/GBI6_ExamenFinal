@@ -364,7 +364,7 @@ ggsave("C:/Users/MISHELLE/Desktop/GBI6_ExamenFinal/GBI6_ExamenFinal/results/regr
 ```{tex}
 # Esciba aquí su intepretación
 # BOXPLOT3:
-# En la gráfica se observa la expresión del gen LUSC superior a los demás genes. Se suguiera una sobreexpresión génica de LUSC
+# En la gráfica se observa la expresión del gen LUSC superior a los demás genes. Esto suguiere una sobreexpresión génica de LUSC
 #
 ```
 
