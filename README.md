@@ -1,7 +1,7 @@
 # GBI6_ExamenFinal
 Aquí se realizará el examen final de la cátedra de bioinformática
 #  Universidad Regional Amazónica Ikiam  
-## Bioinformática - Examen Parcial 1
+## Bioinformática - Examen Final
 *Datos personales:*
 
 - **Nombre:** Mishelle Nathaly Culcay García
